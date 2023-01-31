@@ -7,9 +7,8 @@ I'm a passionate  sales, presales, and partner management professional with 8+ y
 
 Find out more about me & feel free to connect with me here:
 
-
-[![Linkedin Badge](https://img.shields.io/badge/-JAMAL PALMER-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jamalpalmer/)](https://www.linkedin.com/in/jamalpalmer/)
-[![Medium Badge](https://img.shields.io/badge/Jamal Palmer-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@palmer.jamal)](https://medium.com/@palmer.jamal)
+[![Linkedin Badge](https://img.shields.io/badge/<Jamal_Palmer>-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jamalpalmer/)](https://www.linkedin.com/in/jamalpalmer/)
+[![Medium Badge](https://img.shields.io/badge/<Jamal>-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@palmer.jamal)](https://medium.com/@palmer.jamal)
 [![Gmail Badge](https://img.shields.io/badge/-palmer.jamal@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:palmer.jamal@gmail.com)](mailto:palmer.jamal@gmail.com)
 
 ## ⚡ Technologies
@@ -26,8 +25,8 @@ Find out more about me & feel free to connect with me here:
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=jamalpalmer&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamalpalmer&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=JamalPalmer&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamalPalmer&hide=TeX&layout=compact)
 
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=jamalpalmer%2Fjamalpalmer&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=jamalpalmer%2Fjamalpalmer)
